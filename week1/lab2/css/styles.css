@@ -1,0 +1,55 @@
+body {
+color: red;
+margins:auto;
+ width:80%;
+
+}
+
+
+header, section, article, nav, aside,
+footer, div {
+ font-family: sans-serif;
+ border: 1px dotted #000;
+ padding: 10px;
+ margin: 10px;
+}
+
+site-title {
+ font-family: sans-serif;
+ border: 1px dotted #000;
+ padding: 10px;
+ margin: 10px;
+	margin-right: 0;
+}
+site-logo{
+	margin-left: 0;
+}
+
+
+
+h1 {
+color: purple;
+
+}
+
+.warning{
+	font-weight:bold;
+}
+
+#first-para{font-weight:bold;}
+
+
+#SiteNavigation{
+
+
+}
+
+title{}
+
+#PageHeader{color: blue}
+
+
+#PageContent{}
+
+
+#PageFooter{}
